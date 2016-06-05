@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+Hi humans!
+
+Abhijeet here, I like hacking, machine learning
+
